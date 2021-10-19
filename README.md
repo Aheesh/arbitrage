@@ -1,4 +1,4 @@
-# arbitrage opportunities 
+# Arbitrage Opportunities 
 
 Jupyter notebook application that analyzes a dataset from 2 exchanges and finds out arbitrage opportunities during this period.
 
